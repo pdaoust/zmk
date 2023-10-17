@@ -4,9 +4,11 @@ manifest:
       url-base: https://github.com/zephyrproject-rtos
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: pdaoust
+      url-base: https://github.com/pdaoust
   projects:
     - name: zephyr
-      remote: zmkfirmware
+      remote: pdaoust
       revision: v3.2.0+zmk-fixes
       clone-depth: 1
       import:
