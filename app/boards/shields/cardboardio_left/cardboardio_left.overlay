@@ -1,0 +1,19 @@
+/*
+ * Copyright (c) 2020 The ZMK Contributors
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include "cardboardio_left.dtsi"
+
+&thumb_encoder {
+    status = "okay";
+};
+
+&lower_encoder {
+    status = "okay";
+};
+
+&upper_encoder {
+    status = "okay";
+};

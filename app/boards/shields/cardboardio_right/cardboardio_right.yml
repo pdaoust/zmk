@@ -1,0 +1,7 @@
+file_format: "1"
+id: cardboardio_right
+name: Cardboardio (right)
+type: shield
+requires: [elite_pi_rp2040_clone]
+features:
+  - keys

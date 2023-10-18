@@ -1,0 +1,7 @@
+file_format: "1"
+id: cardboardio_left
+name: Cardboardio (left)
+type: shield
+requires: [weird_rp2040_clone]
+features:
+  - keys
